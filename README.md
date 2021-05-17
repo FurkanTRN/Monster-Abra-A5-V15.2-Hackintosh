@@ -2,12 +2,14 @@
 
 [![](https://img.shields.io/badge/Opencore-0.6.9-green) ](https://github.com/acidanthera/OpenCorePkg) [![enter image description here](https://img.shields.io/badge/Monster-Abra%20A5-orange) ](https://www.monsternotebook.com.tr/abra-a5/)[![enter image description here](https://img.shields.io/badge/macOS-11.3.1-yellow)](https://www.apple.com/tr/macos/big-sur/) 
 
-
+ ![enter image description here](images/logo.png)
+ 
 [kirainmoe](https://github.com/kirainmoe) tarafından hazırlanan paket baz alınarak kurulmuştur.
 
 **Mac OS Versiyonu: Big Sur 11.3.1**
+                                                     
 **OpenCore Versiyonu: 0.6.9**
-
+                          
  - Farklı modeldeki Monster cihazlarınız için [**bu**](https://osxinfo.net/konu/monster-cihazlar-icin-efi-kurulum-paketleri-8-9-nesil.20019/) linkteki rehberi uygulayarak kendi efi paketinizi hazırlayabilirsiniz. 
  - 10.nesil notebooklar henüz **desteklenmemektedir**.
  - Şuanki sistemde ****dual boot**(Windows 10 + Big Sur)** kullanılmaktadır.
