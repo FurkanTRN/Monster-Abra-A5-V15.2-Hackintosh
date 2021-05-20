@@ -35,7 +35,7 @@
 
 ## Desteklenmeyen Donanımlar
 
-> Harici ekran kartı (Nvidia GTX 1650) [Type-c to hdmi adaptörü ile ikinci monitörden görüntü alabilirsiniz]
+> Harici ekran kartı (Nvidia GTX 1650)
 
 > Dahili wifi (Heliport uygulaması ile wifi etkinleştirebilirsiniz)
 
