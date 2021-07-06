@@ -26,7 +26,6 @@
 | Harici Grafik Kartı            |Nvidia GTX 1650 4096 MB |
 | Wi-Fi & Bluetooth           | Intel® Dual Band Wireless-AC 9560, 2x2 AC + Bluetooth 5.0 M.2 2230 (1,73 Gbps) |
 | 1. SSD|Western Digital 500 GB Black SN750 WDS500G3X0C M.2 PCI-Express 3.0 SSD |
-|2. SSD |Samsung 256 GB MZNLN256HAJQ M.2 SSD|
 | HDD| Western Digital 1 TB Blue WD10SPZX-24Z10T0 |
 | Kamera          | HD Webcam           |
 | Ses       | Realtek ALC269                        |
