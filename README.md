@@ -7,9 +7,9 @@
  
 [kirainmoe](https://github.com/kirainmoe) tarafından hazırlanan paket baz alınarak kurulmuştur.
 
-**Mac OS Versiyonu: Big Sur 11.3.1**
+**Mac OS Versiyonu: Big Sur 11.5.2**
                                                      
-**OpenCore Versiyonu: 0.6.9**
+**OpenCore Versiyonu: 0.7.2**
                           
  - Farklı modeldeki Monster cihazlarınız için [**bu**](https://osxinfo.net/konu/monster-cihazlar-icin-efi-kurulum-paketleri-8-9-nesil.20019/) linkteki rehberi uygulayarak kendi efi paketinizi hazırlayabilirsiniz. 
  - 10.nesil notebooklar henüz **desteklenmemektedir**.
