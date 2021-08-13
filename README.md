@@ -12,7 +12,6 @@
 **OpenCore Versiyonu: 0.7.2**
                           
  - Farklı modeldeki Monster cihazlarınız için [**bu**](https://osxinfo.net/konu/monster-cihazlar-icin-efi-kurulum-paketleri-8-9-nesil.20019/) linkteki rehberi uygulayarak kendi efi paketinizi hazırlayabilirsiniz. 
- - 10.nesil notebooklar henüz **desteklenmemektedir**.
  - Şuanki sistemde ****dual boot**(Windows 10 + Big Sur)** kullanılmaktadır.
  -  **Triple boot(Windows 10 + Mac Os + Linux)** kullanmak isteyen kullanıcılar [bu linkteki](https://osxinfo.net/konu/basarili-kurulum-triple-boot-monster-abra-a5-v15-2-opencore-0-6-6.21838/#post-158054) konuyu takip ederek kurulum gerçekleştirebilirsiniz.
  
