@@ -7,9 +7,9 @@
  
 [kirainmoe](https://github.com/kirainmoe) tarafından hazırlanan paket baz alınarak kurulmuştur.
 
-**Mac OS Versiyonu: Big Sur 11.6**
+**Mac OS Versiyonu: Big Sur 11.6 (12.0.1 Monterey'e güncellenecektir)**
                                                      
-**OpenCore Versiyonu: 0.7.3**
+**OpenCore Versiyonu: 0.7.3 (0.7.5 sürümüne güncellenecektir)**
 
 **Windows Sürümü: 11**
                           
