@@ -26,7 +26,8 @@
 | Dahili Grafik Kartı | İntel UHD Graphics 630 2048 MB                     |
 | Harici Grafik Kartı            |Nvidia GTX 1650 4096 MB |
 | Wi-Fi & Bluetooth           | Intel® Dual Band Wireless-AC 9560, 2x2 AC + Bluetooth 5.0 M.2 2230 (1,73 Gbps) |
-| 1. SSD|Western Digital 500 GB Black SN750 WDS500G3X0C M.2 PCI-Express 3.0 SSD |
+| 1. SSD|Western Digital 500 GB Black SN750 WDS500G3X0C M.2 PCI-Express 3.0 x4 SSD |
+| 2. SSD|Kioxia Exceria 500 GB M.2 PCI-Express 3.0 x4 SSD |
 | HDD| Western Digital 1 TB Blue WD10SPZX-24Z10T0 |
 | Kamera          | HD Webcam           |
 | Ses       | Realtek ALC269                        |
@@ -35,11 +36,8 @@
 
 ## Desteklenmeyen Donanımlar
 
-> Harici ekran kartı (Nvidia GTX 1650)
+> Nvidia GTX 1650
 
-## Uyumluluk
-
- - En iyi performans ve uyumluluk için **Big Sur** kurmanızı öneriyorum.
 ## Efi Paketi Hazırlama
 İlk olarak [tongfang hackintosh utility](https://github.com/kirainmoe/tongfang-hackintosh-utility/releases) uygulamasını indirin.Ardından elma simgesine tıklayarak işaret edilen yerden intel için driver indirin.
 ![enter image description here](images/tongfang1.png) 
