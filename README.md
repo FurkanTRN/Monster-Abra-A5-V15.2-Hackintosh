@@ -1,21 +1,24 @@
 **MONSTER Abra A5 V15.2 İntel i7 9.Nesil**
 
-[![](https://img.shields.io/badge/Opencore-0.7.3-green) ](https://github.com/acidanthera/OpenCorePkg) [![enter image description here](https://img.shields.io/badge/Monster-Abra%20A5-purple) ](https://www.monsternotebook.com.tr/abra-a5/)[![enter image description here](https://img.shields.io/badge/macOS-11.6-red)](https://www.apple.com/tr/macos/big-sur/) 
+[![](https://img.shields.io/badge/Opencore-0.7.5-green) ](https://github.com/acidanthera/OpenCorePkg) [![enter image description here](https://img.shields.io/badge/Monster-Abra%20A5-purple) ](https://www.monsternotebook.com.tr/abra-a5/)[![enter image description here](https://img.shields.io/badge/macOS-12.0.1-red)](https://www.apple.com/tr/macos/monterey/)
+[![enter image description here](https://img.shields.io/badge/MacOS-Monterey-blueviolet)](https://www.apple.com/tr/macos/monterey/)
+
 
  <img align="right" src="images/logo.png" alt="Monster" width="200">
 
  
 [kirainmoe](https://github.com/kirainmoe) tarafından hazırlanan paket baz alınarak kurulmuştur.
 
-**Mac OS Versiyonu: Big Sur 11.6 (12.0.1 Monterey'e güncellenecektir)**
-                                                     
-**OpenCore Versiyonu: 0.7.3 (0.7.5 sürümüne güncellenecektir)**
+**Mac OS Versiyonu: Monterey 12.0.1**
 
-**Windows Sürümü: 11**
+**Windows Versiyon: 10**
+
+**Linux Dağıtımı: Elementary OS 6.0 Odin**
+                                                     
+**OpenCore Versiyonu: 0.7.5**
                           
  - Farklı modeldeki Monster cihazlarınız için [**bu**](https://osxinfo.net/konu/monster-cihazlar-icin-efi-kurulum-paketleri-8-9-nesil.20019/) linkteki rehberi uygulayarak kendi efi paketinizi hazırlayabilirsiniz. 
- - Şuanki sistemde ****dual boot**(Windows 11 + Big Sur)** kullanılmaktadır.
- -  **Triple boot(Windows 10 + Mac Os + Linux)** kullanmak isteyen kullanıcılar [bu linkteki](https://osxinfo.net/konu/basarili-kurulum-triple-boot-monster-abra-a5-v15-2-opencore-0-6-6.21838/#post-158054) konuyu takip ederek kurulum gerçekleştirebilirsiniz.
+ - Şuanki sistemde ****dual boot**(Windows 10 + Monterey + Elementary OS)** kullanılmaktadır.
  
 | **Donanım** | Detay                                                  |
 | ------------------- | ------------------------------------------- |
